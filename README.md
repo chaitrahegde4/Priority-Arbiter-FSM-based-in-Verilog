@@ -31,7 +31,7 @@ This arbiter uses a **Moore Finite State Machine (FSM)** with five defined state
 
 ---
 
-## 🧪 Sample Test Scenarios
+##  Sample Test Scenarios
 
 The following request patterns were tested using the testbench:
 
