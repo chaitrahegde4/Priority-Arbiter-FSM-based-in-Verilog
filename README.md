@@ -31,6 +31,16 @@ This arbiter uses a **Moore Finite State Machine (FSM)** with five defined state
 
 ---
 
+
+
+## Tools & Technologies Used
+
+- **Verilog HDL** – Hardware description and design
+- **Icarus Verilog (`iverilog`)** – For compiling and simulating Verilog code
+- **GTKWave** – Waveform analysis and debugging
+- **WSL with Ubuntu** – Linux-based development workflow on Windows
+
+
 ##  Sample Test Scenarios
 
 The following request patterns were tested using the testbench:
@@ -44,3 +54,8 @@ The following request patterns were tested using the testbench:
 | 4'b1000     | 4'b1000          | Only Device 3 requests, so granted |
 
 ---
+
+
+## 📈 Simulation Result
+
+<img width="1572" height="319" alt="image" src="https://github.com/user-attachments/assets/3d4ebb78-3d19-4f1a-b55b-12329189bf11" />
